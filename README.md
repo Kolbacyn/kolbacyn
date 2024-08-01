@@ -1,9 +1,10 @@
-<h1 align="center"> Hi there👋, my name is Yury.</h1>
-<h3 align="center"> (Shortly, I am a Python developer) </h3>
+<h1 align="center"> Hey there👋</h1>
+<h3 align="center"> (Shortly, I am Python developer) </h3>
 
 ---
 
-### Languages and tools:
+I am a backend developer specialized in bots, parsing and web development. I am steadily studying various Python frameworks, the creation of complex chatbots using artificial intelligence and cloud technologies.
+###  Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)
@@ -24,7 +25,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kolbacyn&theme=dark" alt="GitHub Streak" /></a>
 ---
 
-<h3> You can contact me via </h3>
+<h3> Feel free to contact me if you need to </h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/stukin)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yury-zolnikov-2b07a45a)
