@@ -21,7 +21,7 @@ I am a backend developer specialized in bots, parsing and web development. I am 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=telegram)]
+[![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=telegram)](https://docs.aiogram.dev/en/dev-3.x/)
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kolbacyn&theme=dark" alt="GitHub Streak" /></a>
