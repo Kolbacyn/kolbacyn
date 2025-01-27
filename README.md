@@ -24,7 +24,7 @@ I am a backend developer specialized in bots, parsing and web development. I am 
 [![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=telegram)](https://docs.aiogram.dev/en/dev-3.x/)
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kolbacyn&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kolbacyn)](https://git.io/streak-stats)
 ---
 
 <h3> Feel free to contact me if you need to </h3>
