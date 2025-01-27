@@ -23,10 +23,6 @@ I am a backend developer specialized in bots, parsing and web development. I am 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Aiogram](https://img.shields.io/badge/Aiogram-blue?style=for-the-badge&logo=telegram)](https://docs.aiogram.dev/en/dev-3.x/)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kolbacyn)](https://git.io/streak-stats)
-
-
 <h3> Feel free to contact me if you need to </h3>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/stukin)
