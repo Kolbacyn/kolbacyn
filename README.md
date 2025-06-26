@@ -6,7 +6,7 @@
 I am a backend developer specialized in bots, parsing and web development. I am steadily studying various Python frameworks, the creation of complex chatbots using artificial intelligence and cloud technologies.
 ###  Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go&logoColor=ffdd54)](https://www.go.dev/)
+[![Go](https://img.shields.io/badge/go-230db7edstyle=for-the-badge&logo=go&logoColor=white)](https://www.go.dev/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
